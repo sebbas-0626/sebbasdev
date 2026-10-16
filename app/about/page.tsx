@@ -35,7 +35,7 @@ const contactLinks = [
   {
     id: "website",
     label: "Portfolio",
-    value: "sebbasdev0626.netlify.app",
+    value: "sebbasdev.vercel.app",
     href: profile.contact.website,
     icon: BiGlobe,
   },

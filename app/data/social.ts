@@ -22,7 +22,7 @@ export const socialLinks = [
   {
     id: 3,
     name: "Portfolio",
-    url: "https://sebbasdev0626.netlify.app",
+    url: "https://sebbasdev.vercel.app",
     logo: null,
     icon: BiGlobe,
     invertOnDark: false,

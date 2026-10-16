@@ -35,7 +35,7 @@ export const profile = {
   contact: {
     phone: "+57 3107929702",
     email: "sebastiantovarchavez304@gmail.com",
-    website: "https://sebbasdev0626.netlify.app",
+    website: "https://sebbasdev.vercel.app",
     linkedin: "https://linkedin.com/in/sebbasdev",
     github: "https://github.com/sebbas-0626",
   },
